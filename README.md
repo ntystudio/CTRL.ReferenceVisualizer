@@ -78,7 +78,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 > # NTY Studio Plugins
 >
 > * [� Unicode Browser](https://github.com/ntystudio/UnicodeBrowser)
-> * [Use State Tree](https://github.com/ntystudio/ExtendedStateTree)
-> * [CTRL.Reference Visualizer](https://github.com/ntystudio/CTRL.ReferenceVisualizer)
+> * [CTRL.StateTree](https://github.com/ntystudio/CTRL.StateTree)
+> * [CTRL.ReferenceVisualizer](https://github.com/ntystudio/CTRL.ReferenceVisualizer)
 > * [CTRL.Core](https://github.com/ntystudio/CTRL.Core)
 > * [CTRL.Gas](https://github.com/ntystudio/CTRL.Gas)
